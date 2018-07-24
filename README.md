@@ -7,6 +7,8 @@ O programa foi desenvolvido em PYQT e recebe como entrada o nome do paciente, no
 
 OBS: Por motivo de segurança o programa não gera os valores absolutos da serie branca se o somatório dos valores relativos forem diferente de 100.
 
+O arquivo Mainwindow.ui foi o arquivo utilizado para criar o desing do programa. O arquivo cliend.py consiste no codigo do programa.
+
 Abaixo segue imagens do programa sendo utilizado e o link para o resultado em PDF do exame teste gerado por ele.
 
 Imagem do programa logo apos ser aberto:
