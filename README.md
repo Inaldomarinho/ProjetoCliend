@@ -14,6 +14,6 @@ Imagem do programa preenchido com entradas:
 ![Programa com entradas](Images/ProgramaComEntradas.png)
 
 Link para o arquivo em PDF: 
-![Exame](Exames/24.07.18_Nome de Teste Aleatorio.pdf)
+![Exame](https://github.com/Inaldomarinho/ProjetoCliend/blob/master/Exames/24.07.18_Nome%20de%20Teste%20Aleatorio.pdf)
 
 
